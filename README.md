@@ -1,6 +1,6 @@
 Integrantes:
 
-Geovane Gonçalves
-Pedro Jerônimo
-Ingrid Daiane
-Layane Heloisa
+-Geovane Gonçalves
+-Pedro Jerônimo
+-Ingrid Daiane
+-Layane Heloisa
